@@ -9,7 +9,7 @@ import HomePage from "./pages/HomePage";
 import Layout from "./components/Layout";
 import NowShowing from "./pages/NowShowing";
 import AddMovies from "./pages/AddMovies";
-import Carousel from "./components/Carousel";
+
 const router = createBrowserRouter([
   {
     element: (
